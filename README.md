@@ -18,43 +18,46 @@
 <br>
 
 ## 목차
-[1. 프로젝트 기획 배경]()
+[1. 기획 배경]()
 <br>
-[2. 데이터 분석 및 모델 개발]()
+[2. 개발 과정]()
 <br>
-[3. 기대가치 정리]()
+[3. 기대가치]()
 <br>
 [4. 프로그램 사용 방법]()
 
 
 
 
-### 1. 프로젝트 기획 배경
+### 1. 기획 배경
 <img src="https://user-images.githubusercontent.com/96769060/176325014-8b0587d2-d6ba-4115-aee4-abc3addb37a1.png" width="375"> <img src="https://user-images.githubusercontent.com/96769060/176325105-35da1815-954f-49bf-8cc7-55ab9ddf2ceb.png" width="375">  
 
+현재 코로나 19로 인한 양질의 교육 기회 감소, 전자기기와 각종 영상 매체에 노출되는 비중이 커지는 등 여러 요인들로 인해 어린 세대에서 학업 성취도가 크게 낮아지고 있습니다.  
+저희 동그리 팀은 글을 접할 기회가 많지 않은 아이들이 쓰기와 읽기에 대한 즐거움을 느낄 수 있도록 해 문해력 저하 현상을 초기에 예방하고, 기초적인 언어 능력을 향상시키는 것에 초점을 맞추어 솔루션의 방향을 결정했습니다.
 
 
 
+### 2. 개발 과정
+<img src="https://user-images.githubusercontent.com/96769060/176356900-7d1fd34f-20cb-425f-8259-bbd27a9451ed.png" width="750">  
 
-### 2. 데이터 분석 및 모델 개발
-<img src="" width="750">  
+솔루션은 2가지 단계로 구성되어 있습니다.
+  - [LEVEL 1] 간단한 명사로 구성된 선택지를 골라 만드는 참여형 동화 (만 5~6세 추천)
+  - [LEVEL 2] 자유롭게 일기를 작성하면 문장에서 명사를 추출해 알맞은 그림으로 채워주는 그림일기 (만 7~8세 추천)
+
+각각의 솔루션은 손글씨를 텍스트로 인식하는 OCR 알고리즘을 공유하며, 이렇게 전환된 텍스트는 솔루션에 따라 처리하는 과정이 달라집니다.
+
+<img src="https://user-images.githubusercontent.com/96769060/176365321-89c43b98-2c44-4d89-a6bf-0008b86b510c.png" width="375"> <img src="https://user-images.githubusercontent.com/96769060/176365595-bf13c12d-b4cc-4aef-9d31-8e300c651d15.png" width="375">  
 
 
-<img src="" width="750">  
+### 3. 기대가치
 
-
-<img src="" width="750">  
-
-
-### 3. 기대가치 정리
-
-<img src="" width="750">  
+<img src="https://user-images.githubusercontent.com/96769060/176365810-86d5d053-a542-4f2d-9c2c-e7a62dfcd24c.png" width="750">  
 
 
 
 ### 4. 프로그램 사용 방법
 ※ 본 프로그램은 Chrome 브라우저 기반으로 제작되었습니다.  
-Chrome 브라우저의 `다운로드 설정`(chrome://settings/downloads)에서 '다운로드 전에 각 파일의 저장 위치 확인' 옵션을 꺼 주셔야 정상 작동합니다.
+Chrome 브라우저의 `다운로드 설정` (chrome://settings/downloads)에서 '다운로드 전에 각 파일의 저장 위치 확인' 옵션을 꺼 주셔야 정상 작동합니다.
 1. 프로젝트를 다운로드 하여 압축을 푼 뒤, 'donggri_solution' 폴더를 C 드라이브 하위로 옮깁니다.
 2. main.py와 function.py 내부의 경로를 로컬 PC에 맞게 수정합니다. 수정하는 경로는 총 2가지입니다.  
   - 브라우저에서 자동으로 다운로드 되는 '다운로드' 폴더 (C:\Users\user\Downloads)
