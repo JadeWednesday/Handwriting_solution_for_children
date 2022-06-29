@@ -30,7 +30,7 @@
 
 
 ### 1. 프로젝트 기획 배경
-<img src="https://user-images.githubusercontent.com/96769060/176325014-8b0587d2-d6ba-4115-aee4-abc3addb37a1.png" width="500"> <img src="https://user-images.githubusercontent.com/96769060/176325105-35da1815-954f-49bf-8cc7-55ab9ddf2ceb.png" width="500">  
+<img src="https://user-images.githubusercontent.com/96769060/176325014-8b0587d2-d6ba-4115-aee4-abc3addb37a1.png" width="425"> <img src="https://user-images.githubusercontent.com/96769060/176325105-35da1815-954f-49bf-8cc7-55ab9ddf2ceb.png" width="425">  
 
 
 
