@@ -12,7 +12,7 @@
 
 ## 프로젝트 세부사항
   - 수행 기간: 22/05/09 ~ 22/06/10 (총 5주)
-  - 수행 인원: KDT 수강생 6명 ([`이동연`](https://github.com/movingkite) [`김기연`](https://github.com/kimkeee) [`용지영`](https://github.com/djy00) [`김재경`](https://github.com/rmadmswk) [`정현우`](https://github.com/HyeonuJeong) [`최지원`](https://github.com/JadeWednesday))
+  - 수행 인원: KDT 수강생 6명 ([`최지원`](https://github.com/JadeWednesday) [`이동연`](https://github.com/movingkite) [`김기연`](https://github.com/kimkeee) [`용지영`](https://github.com/djy00) [`김재경`](https://github.com/rmadmswk) [`정현우`](https://github.com/HyeonuJeong))
   - 수행 역할: (개인) 프로그램 기획, 사전조사 및 실사용 데이터 수집, 동화 이미지 데이터셋 제작, 이미지 출력 파트 담당  
   - 개발 환경: <img src ="https://img.shields.io/badge/Python-3776AB.svg?style=flat&logo=python&logoColor=white"/> <img src ="https://img.shields.io/badge/Google Colab-F9AB00.svg?style=flat&logo=Google Colab&logoColor=white"/> <img src ="https://img.shields.io/badge/VS Code-007ACC.svg?style=flat&logo=Visual Studio Code&logoColor=white"/> <img src ="https://img.shields.io/badge/Flask-282828.svg?style=flat&logo=Flask&logoColor=white"/> <img src ="https://img.shields.io/badge/HTML-E34F26.svg?style=flat&logo=HTML5&logoColor=white"/> <img src ="https://img.shields.io/badge/JS-F7DF1E.svg?style=flat&logo=JavaScript&logoColor=282828"/> <img src ="https://img.shields.io/badge/CSS-1572B6.svg?style=flat&logo=CSS3&logoColor=white"/> <img src ="https://img.shields.io/badge/Kakao OCR-FFCD00.svg?style=flat&logo=Kakao&logoColor=282828"/>
 <br>
